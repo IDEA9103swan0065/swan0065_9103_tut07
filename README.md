@@ -20,11 +20,10 @@
 - Use color () to fill in the square color
  <div align=centre> <img src="assets/3.jpeg" width="200px">
 
+[Link Text](https://p5js.org/reference/#/p5/color)
 
+- Using the setup() function, it is possible to define the screen size and background colour and load media, such as images and fonts, at program startup, as well as initialise various parameters and settings, such as frame rate, pixel density and smoothing.
 
-2. Second Item
-3. Third Item
-[Link Text](https://www.google.com
-Links to an external site.)
-![An image of a cat](http://placekitten.com/200/300
-Links to an external site.)
+ <div align=centre> <img src="assets/4.jpeg" width="200px">
+
+[Link Text](https://p5js.org/reference/#/p5/setup)

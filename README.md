@@ -1,11 +1,11 @@
 # QUIZ8
 
 ### Part 1: Imaging Technique Inspiration
-#### Header 4
+<!-- #### Header 4
 ##### Header 5
 ###### Header 6
 **Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+*Italic Text* or _Italic Text_ -->
 - Item 1
 - Item 2
   - Subitem 2.1

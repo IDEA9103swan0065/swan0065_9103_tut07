@@ -15,11 +15,13 @@
  <div align=centre> <img src="assets/1.png" width="200px">
  <div align=centre> <img src="assets/2.png" width="200px">
 
-### Part 1: Imaging Technique Inspiration
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-  1. First Item
+### Part 2: Coding Technique Exploration
+
+- Use color () to fill in the square color
+ <div align=centre> <img src="assets/3.jpeg" width="200px">
+
+
+
 2. Second Item
 3. Third Item
 [Link Text](https://www.google.com
